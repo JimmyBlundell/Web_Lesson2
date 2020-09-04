@@ -47,6 +47,19 @@ body {
   opacity: 1;
 }
 
+#profile-icon {
+  background-image: url("jimmy.png");
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+#notification-icon {
+  background-image: url("icons8-notification-32.png");
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
 #sign-in {
   padding: 8px 11px;
   background-color: #4285f4;
@@ -84,6 +97,22 @@ body {
   border-radius: 1px;
   border: solid 1px #DDD;
   box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+}
+
+{/*TODO: https://www.w3schools.com/css/css_grid.asp see this for making grid. Will likely use this for my recently visited!*/}
+
+.grid-container {
+  display: grid;
+  background-color: white;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px;
+  border-radius: 10px;
+}
+
+.item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
 }
 
 #search-bar:hover {

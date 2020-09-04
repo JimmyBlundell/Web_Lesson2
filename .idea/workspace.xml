@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dcfea37-00a9-4962-99ca-5d97e898f9ab" name="Default Changelist" comment="" />
+    <list default="true" id="7dcfea37-00a9-4962-99ca-5d97e898f9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/icons8-notification-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/jimmy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inclass/My_HTML/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inclass/My_HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Inclass/My_HTML/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gv5JepGwekHND3PrsNkkOWE21d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +38,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Inclass/CSS_Inclass/GoogleTask" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598982154316</updated>
-      <workItem from="1598982155339" duration="4915000" />
+      <workItem from="1598982155339" duration="24231000" />
     </task>
     <servers />
   </component>
@@ -41,6 +59,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="368" key="#Images" timestamp="1599183214565">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="438" y="368" key="#Images/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599183214565" />
+    <state x="443" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599188070135">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="443" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599188070135" />
+    <state x="677" y="410" key="Github.ShareDialog" timestamp="1599012445970">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="677" y="410" key="Github.ShareDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599012445970" />
+    <state x="591" y="218" key="Github.UntrackedFilesDialog" timestamp="1599012479390">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="591" y="218" key="Github.UntrackedFilesDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599012479390" />
     <state x="960" y="23" width="960" height="1057" key="dock-window-1" timestamp="1599006786383">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
